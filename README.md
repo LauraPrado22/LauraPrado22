@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @LauraPrado22
-- 👀 I’m interested in Data Analytics, Machine Learning and Process Improvement.
+- 👀 I’m interested in Project Management, Process Improvement, Data Analytics and Machine Learning.
 - 🌱 I’m currently using SQL/Python.
 - 💞️ I’m looking to collaborate on Logistics/Supply Chain Projects.
 - 📫 How to reach me: lauralizethprado22@gmail.com

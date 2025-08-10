@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LauraPrado22
 - 👀 I’m interested in Project Management, Process Improvement, Data Analytics and Machine Learning.
-- 🌱 I’m currently using SQL/Python.
+- 🌱 Currently working with Excel VBA, SQL, and Python for automation and data analysis.
 - 💞️ I’m looking to collaborate on Logistics/Supply Chain Projects.
 - 📫 How to reach me: lauralizethprado22@gmail.com
 - 😄 Pronouns: She/Her
